@@ -1,7 +1,7 @@
 # Cyclistic Case Study
 
 ## Overview
-This is a capstone project for the Google Data Analytics certificate. In this case study, I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing wants to launch a digital campaign to convert casual riders (single-day and full-day passes) to Cyclistic, those who have the annual membership.
+This is a capstone project for the Google Data Analytics certificate. In this case study, I am a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing wants to launch a digital campaign to convert casual riders (single-day and full-day passes) to Cyclistic members, those who have the annual membership.
 \
 \
 **Business Task**\
